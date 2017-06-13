@@ -1,3 +1,14 @@
+# Getting started
+
+```
+wget https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip
+wget https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip
+open vehicles.zip
+open non-vehicles.zip
+source activate carnd-term1
+jupyter notebook main.ipynb
+```
+
 # Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
